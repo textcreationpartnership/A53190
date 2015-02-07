@@ -141,7 +141,10 @@ Printed for <hi>Iohn Garfeild,</hi> at the <hi>Rolling-Press</hi>
 for <hi>Pictures,</hi> neer the <hi>Royal Ex<g ref="char:EOLhyphen"/>change</hi>
 in <hi>Cornhill,</hi> over against
 <hi>Popes-head Alley,</hi> 1657.</p>
-            <figure/>
+            <p>
+               <pb facs="tcp:100063:2" rendition="simple:additions"/>
+               <figure/>
+            </p>
          </div>
          <div type="dedication">
             <pb facs="tcp:100063:2"/>
